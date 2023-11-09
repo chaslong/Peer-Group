@@ -30,4 +30,3 @@ console.log(bookshelf.getTotalBooks()); // 3
 bookshelf.removeBook("To Kill a Mockingbird"); 
 console.log(bookshelf.getTotalBooks()); // 2 
 
-// console.log(bookshelf);
